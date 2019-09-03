@@ -1,11 +1,11 @@
 # IoT Project - Home automation - Control light 
 
 # COMPONENTS AND SUPPLIES:
-Arduino nano
-HC-SR501 PIR motion sensor
-KY-022 INFRARED RECEIVER MODULE
-KY-005 INFRARED TRANSMITTER MODULE
-Photo Resistor 
+1. Arduino nano
+2. HC-SR501 PIR motion sensor
+3. KY-022 INFRARED RECEIVER MODULE
+4. KY-005 INFRARED TRANSMITTER MODULE
+5. Photo Resistor 
 
 # ABOUT THIS PROJECT
 1. Trun on/off light by humen detection
